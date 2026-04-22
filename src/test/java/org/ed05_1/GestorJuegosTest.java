@@ -54,4 +54,5 @@ public class GestorJuegosTest {
         assertEquals(9, gestorJuegos.registrarLoteJuegos(new String[]{"ABC123", "XYZ456"}, new int[]{4, 5}));
     }
 
+
 }
